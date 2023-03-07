@@ -1,1 +1,1 @@
-My second readme
+it print the core operation system name
